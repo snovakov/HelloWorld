@@ -2,13 +2,13 @@
 The HelloWorld repository.
 
 # A Little Insight Into Steven Novakovich
-I am an ex-developer, attempting to learn Git/GitHub on my own.
+I am a (mainly PERL) developer, learning Git/GitHub on my own.
 
 ## My Career Passions
-Making enough money to pay the rent.
+Looking forward to happy days and nights programming to my heart's delight.
 
 ## My Hobbies
-My hobbies include Uber:ing, following (left-wing) politics, and
+My hobbies include Uber:ing, following politics, and
 dearly loving my soul-mate, Laurie.
 
 ![headshot](us.jpeg)
